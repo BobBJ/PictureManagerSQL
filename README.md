@@ -1,4 +1,4 @@
-# SQL
+# Pictures Manager
 
 Picture Manager Website. This website can manage and modify pictures uploaded by users.
 
